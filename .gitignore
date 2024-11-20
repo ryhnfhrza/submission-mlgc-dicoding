@@ -1,0 +1,6 @@
+.env
+config/
+config_text/
+data-test-postman/
+node_modules/
+submissions-model/
